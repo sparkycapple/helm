@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  weave-scope:
+  - appVersion: 1.6.5
+    created: 2018-06-21T21:44:33.207235553Z
+    description: A Helm chart for the Weave Scope cluster visualizer.
+    digest: f68e16dc6719c5c604b64373b8872f01acdfdee7656422fc4c4949826b5d9a7f
+    home: https://www.weave.works/oss/scope/
+    icon: https://avatars1.githubusercontent.com/u/9976052?s=64
+    keywords:
+    - containers
+    - dashboard
+    - monitoring
+    maintainers:
+    - email: github@orion-com.com
+      name: omkensey
+    name: weave-scope
+    sources:
+    - https://github.com/weaveworks/scope
+    urls:
+    - weave-scope-0.9.2.tgz
+    version: 0.9.2
+generated: 2018-06-21T21:44:33.206268236Z
